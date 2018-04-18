@@ -19,7 +19,7 @@ Utilicé sólo mp3 por cuestiones de tiempo y la Marcha Imperial porque soy un S
 <br />
 Me pareció un buen detalle añadir un favicon y una de las tipografas de STAR WARS para el botón y el logo. Aunque creo que la del logo es la versión outline, pero no se fijen en eso.
 <br />
-Pueden encontrar esta semana la versión online en: 
+Pueden encontrar la versión online en: 
 <br />
 http://209.213.97.13/Test1234RF/
 <br />
