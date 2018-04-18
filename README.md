@@ -1,5 +1,5 @@
 # StarWarsKTBO
-Para ver el siguiente ejercicio de forma óptima es necesario copiar el path a una carpeta pública y entrar desde el navegador. O bien en caso de que estuviéramos trabajando el mismo ejercicio sólo sería necesario hacer pull en el botón de "Pull Request". O a través de la opción clone & download.
+Para ver el siguiente ejercicio de forma óptima es necesario copiar el path a una carpeta pública y entrar desde el navegador. O bien en caso de que estuviéramos trabajando el mismo ejercicio sólo sería necesario hacer pull en el botón de "Pull Request". O a través de la opción "clone or download".
 <br />
 Todos los recursos están en distintas carpetas cuyo nombre indica su contenido (js ,css ,img, mp3, fonts).
 <br />
