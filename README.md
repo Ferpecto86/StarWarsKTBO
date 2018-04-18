@@ -1,5 +1,5 @@
 # StarWarsKTBO
-Para ver el siguiente ejercicio de forma óptima es necesiario copiar el path a una carpeta pública y entrar desde el navegador.
+Para ver el siguiente ejercicio de forma óptima es necesario copiar el path a una carpeta pública y entrar desde el navegador.
 <br />
 Todos los recursos están en distintas carpetas cuyo nombre indica su contenido (js ,css ,img, mp3, fonts).
 <br />
